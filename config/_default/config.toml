@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://geraldnguyen.github.io/agile-manifesto-vietnamese-translation/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
