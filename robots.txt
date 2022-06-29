@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://geraldnguyen.github.io/agile-manifesto-vietnamese-translation/sitemap.xml
+Sitemap: /sitemap.xml
