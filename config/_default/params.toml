@@ -12,7 +12,7 @@ description = "Tuyên Ngôn Agile - A Vietnamese translation of the Agile Manife
 # twitterCreator = "henkverlinde"
 # facebookAuthor = "verlinde.henk"
 # facebookPublisher = "verlinde.henk"
-# ogLocale = "en_US"
+ogLocale = "vi_VN"
 
 ## JSON-LD
 # schemaType = "Organization"
